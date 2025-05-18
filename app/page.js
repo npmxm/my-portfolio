@@ -147,7 +147,7 @@ export default function Home() {
           </div>
           <div className="min-h-0 box-border w-full lg:h-full lg:flex-1 sm:p-0">
             <Image
-              src="/myAvatar.png"
+              src="myAvatar.png"
               alt="myAvatar.png"
               width={1000} 
               height={1000}
@@ -227,7 +227,7 @@ export default function Home() {
               style={{ alignItems: "unset !important;" }}
             >
               <Image
-              src="/myPicVerIllust.png"
+              src="myPicVerIllust.png"
               alt="myPicVerIllust.png"
               width={1000} 
               height={1000}
@@ -443,7 +443,7 @@ export default function Home() {
               className="w-full rounded-2xl mt-4 object-contain bg-amber-100"
             />
             <Image
-              src="/vdo.gif"
+              src="vdo.gif"
               alt="vdo.gif"
               width={1000} // กำหนดขนาดที่เหมาะสม
               height={1000}

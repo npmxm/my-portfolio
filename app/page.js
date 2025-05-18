@@ -147,8 +147,8 @@ export default function Home() {
           </div>
           <div className="min-h-0 box-border w-full lg:h-full lg:flex-1 sm:p-0">
             <Image
-              src="/My Avatar.png"
-              alt=""
+              src="/myAvatar.png"
+              alt="myAvatar.png"
               width={1000} 
               height={1000}
               className="w-full h-full lg:w-auto object-contain "
@@ -227,8 +227,8 @@ export default function Home() {
               style={{ alignItems: "unset !important;" }}
             >
               <Image
-              src="/วาดตัวเองง.png"
-              alt=""
+              src="/myPicVerIllust.png"
+              alt="myPicVerIllust.png"
               width={1000} 
               height={1000}
               className="object-[0_20%] object-cover"
@@ -436,15 +436,15 @@ export default function Home() {
               ในส่วนอื่นๆยังคงทำงานได้เหมือนเดิม
             </p>
             <Image
-              src="/หน้าเว็บ.png"
-              alt=""
+              src="finalProjectWeb.png"
+              alt="finalProjectWeb.png"
               width={1000} // กำหนดขนาดที่เหมาะสม
               height={1000}
               className="w-full rounded-2xl mt-4 object-contain bg-amber-100"
             />
             <Image
               src="/vdo.gif"
-              alt=""
+              alt="vdo.gif"
               width={1000} // กำหนดขนาดที่เหมาะสม
               height={1000}
               className="mt-4 w-full rounded-2xl "
